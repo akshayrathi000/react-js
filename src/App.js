@@ -7,13 +7,13 @@ function App() {
     <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           <code> heeyy there   </code> 
+           <code> website</code> 
         </p>
         
       </header>
       
     </div>
-  );
+  ); 
 }
 
 export default App;
